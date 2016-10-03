@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch02_Numbers", "Ch02_Number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch02_NumberAccuracy", "Ch02_NumberAccuracy\Ch02_NumberAccuracy.csproj", "{46BF53FA-9CF0-457A-B8D6-6E14E02DABA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch02_SpecialTypes", "Ch02_SpecialTypes\Ch02_SpecialTypes.csproj", "{2581F01C-D722-490D-A704-854FB47D5191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{46BF53FA-9CF0-457A-B8D6-6E14E02DABA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46BF53FA-9CF0-457A-B8D6-6E14E02DABA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46BF53FA-9CF0-457A-B8D6-6E14E02DABA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2581F01C-D722-490D-A704-854FB47D5191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2581F01C-D722-490D-A704-854FB47D5191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2581F01C-D722-490D-A704-854FB47D5191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2581F01C-D722-490D-A704-854FB47D5191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
