@@ -19,7 +19,7 @@ namespace Ch02_SpecialTypes
             //in dynaimic object the value stores can have its members invoced without an explicit cast
             // avoid too
             dynamic anotherName = "Synek"; // string stored in dynamic object
-            int length = anotherName.length; // compiles bit may throw exception on runtime
+            int length = anotherName.length; // compiles but may throw exception on runtime
         
         }
     }
